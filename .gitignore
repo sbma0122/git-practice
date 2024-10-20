@@ -11,6 +11,7 @@
 build/
 
 # ignore doc/notes.txt, but not doc/server/arch.txt
+doc/*.txt
 
 # ignore all .pdf files in the doc/ directory and any of its subdiretories
 doc/**/*.pdf
